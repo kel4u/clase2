@@ -4,3 +4,4 @@ Algoritmo Clase1
 	//Holaaaaa//
 //	Mostrar  "Esto no lo quiero mostrar"
 FinAlgoritmo
+ //lol
